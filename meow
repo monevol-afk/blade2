@@ -90,4 +90,4 @@ local function SendMessage(message)
     else      ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
     end
 end
-SendMessage("monevol the legend of blade ball. god bless monevol. glory to monevol // script by blood_strike789")
+SendMessage("// blade-ball script on monevol-afk github")
