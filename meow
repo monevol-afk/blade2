@@ -11,9 +11,9 @@ wait(1)
 starterGUI:SetCore("SendNotification", {
 	Title = "MonevolesHub",
 	Text = "Auto Parry Executed (мяу мяу мяу.)",
-	Icon = "rbxassetid://135351041318579",
+	Icon = "rbxassetid://6073818793",
 	Duration = 10,
-        Button1 = "пшел наху"
+        Button1 = "shut up"
 })
 
 -- monevol the legend of blade ball. god bless monevol. glory to monevol --
@@ -90,4 +90,4 @@ local function SendMessage(message)
     else      ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
     end
 end
-SendMessage("// blade-ball script on monevol-afk github")
+SendMessage("// meow //")
